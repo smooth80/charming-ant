@@ -4,10 +4,13 @@ sections:
   - type: hero_section
     title: Smooth 80's Technology
     subtitle: Creatively bring in a new era of application development!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Smooth 80's Technology honors educational opportunity for all. Join us as
+      we embark a new, fun educational way for parents and children alike to
+      challenge themselves. We are a community of developers with the same
+      creative passion but we use software to showcase our talents, so jump on
+      board and learn a new craft alongside a fun game to spark the boredom into
+      creativity.
     actions:
       - label: App Store
         url: /pricing
