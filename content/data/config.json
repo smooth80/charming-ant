@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Pricing",
-                "url": "smooth80s.com/pricing",
+                "url": "https://smooth80s.com/pricing",
                 "style": "link",
                 "has_icon": true
             },
