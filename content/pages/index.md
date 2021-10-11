@@ -23,7 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    section_id: sm
+    section_id: smooth 80's
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
