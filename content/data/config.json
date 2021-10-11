@@ -16,7 +16,8 @@
                 "label": "Pricing",
                 "url": "https://smooth80s.com/pricing",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "new_window": true
             },
             {
                 "label": "About",
