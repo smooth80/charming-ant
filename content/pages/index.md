@@ -27,6 +27,7 @@ sections:
     background_color: primary
     section_id: smooth 80's
     image_alt: Company Logo
+    has_border: true
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
