@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Smooth 80's Technology
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: '!'
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
