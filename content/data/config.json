@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "Smooth 80's",
-        "logo": "/images/alphabet-916673.jpg",
+        "logo": "/images/mario.png",
         "logo_alt": "App logo",
         "has_primary_nav": true,
         "primary_nav_links": [
