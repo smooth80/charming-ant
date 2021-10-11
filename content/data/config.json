@@ -39,16 +39,6 @@
                 "url": "https://smooth80s.com/style-guide",
                 "style": "link",
                 "has_icon": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
