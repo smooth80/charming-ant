@@ -29,7 +29,7 @@ sections:
     image_alt: Company Logo
     has_border: true
     background_image: /images/icons8-homer-simpson.gif
-    background_image_size: contain
+    background_image_size: cover
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
