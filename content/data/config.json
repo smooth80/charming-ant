@@ -18,7 +18,7 @@
                 "style": "link",
                 "has_icon": true,
                 "new_window": true,
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "About",
