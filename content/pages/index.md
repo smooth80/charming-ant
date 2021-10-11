@@ -28,6 +28,7 @@ sections:
     section_id: smooth 80's
     image_alt: Company Logo
     has_border: true
+    background_image: /images/icons8-homer-simpson.gif
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
