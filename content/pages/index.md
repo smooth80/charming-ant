@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Smooth 80''s '
+    title: Smooth 80's Technology
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
